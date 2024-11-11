@@ -22,3 +22,7 @@ Odpalasz (najlepiej w oryginalnym CMD bo w windows terminal się dużo rzeczy ps
 
 **Co to plik .bir?** Custom format który posiada po prostu kolory pixeli. By zamienić png w bir wystarczy użyć converter.py który jest dołączony w zestawie. 
 W converterze w 3 ostatnich linijkach masz inputFIle i outputFile i je musisz wypełnić poprawnymi danymi.
+
+
+**PS:**
+lol converter has more lines of code than actual fcking renderer
